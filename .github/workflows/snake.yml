@@ -33,7 +33,8 @@ jobs:
 
       # Push the content of <build_dir> to a branch
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/gh-action-github-pages@v4
+        # FIXED: Removed the extra dash in the action name below
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
