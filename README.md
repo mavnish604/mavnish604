@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Avnish;ML+Engineer+%26+Researcher;CSI+Management+Head;Math-First+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Avnish;ML+Engineer+%26+Researcher;Math-First+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,13 +23,23 @@
 
 ### 🚀 **About Me**
 
-I am a **3rd-year B.Tech CSE (Data Science)** student and the **Management Head of the CSI (Computer Society of India) DITU Chapter**.
+I am a **3rd-year B.Tech CSE (Data Science)** student at **DIT University**, focused on research and building scalable AI systems.
 
 I distinguish myself with a **"Math-First" philosophy**: I prioritize understanding the calculus and linear algebra behind algorithms before implementing them. My current focus is bridging the gap between traditional Deep Learning and the emerging field of **Large Language Models (LLMs)** and **Agents**.
 
 - 🔭 I’m currently working on **Speech Emotion Recognition** (Research) and **LangGraph Agents**.
 - 🐧 Daily Workstation: **Fedora / Kali Linux** (Hyprland enthusiast).
 - 🏏 Interest: **Sports Analytics** (Cricket & Football).
+
+---
+
+### 🏆 **Achievements**
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mavnish604&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+  </a>
+</div>
 
 ---
 
@@ -73,10 +83,18 @@ I have curated my repositories into key domains. Here are the highlights:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mavnish604&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
----
-
-### 🐍 **Contribution Snake**
+<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mavnish604/mavnish604/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>Open to internships and research collaborations in Machine Learning & GenAI.</i></p>
+  
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=mavnish604&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
