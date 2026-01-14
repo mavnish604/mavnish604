@@ -75,15 +75,8 @@ I have curated my repositories into key domains. Here are the highlights:
 
 ---
 
-### 📊 **GitHub Statistics**
+### 🐍 **Contribution Snake**
 
 <div align="center">
-
-[![Avnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavnish604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavnish604&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mavnish604&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://raw.githubusercontent.com/mavnish604/mavnish604/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
