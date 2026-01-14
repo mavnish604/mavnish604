@@ -28,7 +28,7 @@ I am a **3rd-year B.Tech CSE (Data Science)** student at **DIT University**, foc
 I distinguish myself with a **"Math-First" philosophy**: I prioritize understanding the calculus and linear algebra behind algorithms before implementing them. My current focus is bridging the gap between traditional Deep Learning and the emerging field of **Large Language Models (LLMs)** and **Agents**.
 
 - 🔭 I’m currently working on **Speech Emotion Recognition** (Research) and **LangGraph Agents**.
-- 🐧 Daily Workstation: **Fedora / Kali Linux** (Hyprland enthusiast).
+- 🐧 Daily Workstation: **Ubuntu,
 - 🏏 Interest: **Sports Analytics** (Cricket & Football).
 
 ### 🛠️ **Technical Arsenal**
