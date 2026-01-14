@@ -31,18 +31,6 @@ I distinguish myself with a **"Math-First" philosophy**: I prioritize understand
 - 🐧 Daily Workstation: **Fedora / Kali Linux** (Hyprland enthusiast).
 - 🏏 Interest: **Sports Analytics** (Cricket & Football).
 
----
-
-### 🏆 **Achievements**
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mavnish604&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
-  </a>
-</div>
-
----
-
 ### 🛠️ **Technical Arsenal**
 
 <div align="center">
