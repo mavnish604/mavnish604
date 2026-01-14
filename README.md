@@ -68,7 +68,7 @@ I have curated my repositories into key domains. Here are the highlights:
 ### 📅 **Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavnish604&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mavnish604&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br />
   
@@ -80,7 +80,6 @@ I have curated my repositories into key domains. Here are the highlights:
 <div align="center">
   <img src="https://raw.githubusercontent.com/mavnish604/mavnish604/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
 ---
 
 <div align="center">
