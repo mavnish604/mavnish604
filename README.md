@@ -78,16 +78,12 @@ I have curated my repositories into key domains. Here are the highlights:
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mavnish604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavnish604&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
 
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavnish604&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
+[![Avnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavnish604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavnish604&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<br/>
 
-<div align="center">
-  <p><i>Open to internships and research collaborations in Machine Learning & GenAI.</i></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mavnish604&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
