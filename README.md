@@ -28,7 +28,7 @@ I am a **3rd-year B.Tech CSE (Data Science)** student at **DIT University**, foc
 I distinguish myself with a **"Math-First" philosophy**: I prioritize understanding the calculus and linear algebra behind algorithms before implementing them. My current focus is bridging the gap between traditional Deep Learning and the emerging field of **Large Language Models (LLMs)** and **Agents**.
 
 - 🔭 I’m currently working on **Speech Emotion Recognition** (Research) and **LangGraph Agents**.
-- 🐧 Daily Workstation: **Ubuntu**,
+- 🐧 Daily Workstation: **Ubuntu**
 - 🏏 Interest: **Sports Analytics** (Cricket & Football).
 
 ### 🛠️ **Technical Arsenal**
@@ -68,6 +68,10 @@ I have curated my repositories into key domains. Here are the highlights:
 ### 📅 **Coding Activity**
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavnish604&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mavnish604&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
