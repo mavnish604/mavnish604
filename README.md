@@ -68,12 +68,7 @@ I have curated my repositories into key domains. Here are the highlights:
 <div align="center">
 
 # 📊 GitHub Stats
-<a href="https://github-readme-stats-sigma-ten-79.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mavnish604" />
-</a>
-<a href="https://github-readme-stats-sigma-ten-79.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavnish604&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-lake-two-38.vercel.app?user=mavnish604&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 
 ### ✍️ Random Dev Quote
