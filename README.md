@@ -46,6 +46,9 @@ I distinguish myself with a **"Math-First" philosophy**: I prioritize understand
 
 <div align="center">
 <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Contributions" />
+<br><br>
+  <img src="./metrics.plugin.languages.indepth.svg" alt="In-depth Language Analysis" />
+  <br><br>
 
 
 ### ✍️ Random Dev Quote
