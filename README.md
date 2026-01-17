@@ -43,27 +43,6 @@ I distinguish myself with a **"Math-First" philosophy**: I prioritize understand
 
 </div>
 
----
-
-### 💡 **Featured Projects**
-
-I have curated my repositories into key domains. Here are the highlights:
-
-#### 🤖 **Generative AI & LLMs**
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **LangGraph_tut** | Exploring stateful, multi-actor applications with LLMs using LangGraph. | `Python` `LangGraph` |
-| **Langchain_tut** | Implementation of chains, agents, and memory in Large Language Models. | `Python` `LangChain` |
-
-#### 📊 **Machine Learning & Analytics**
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **BOOKai** | A hybrid book recommendation system (Collaborative + Content-Based). | `Pandas` `Scikit-Learn` |
-| **IPL Score Predictor** | A web app to predict IPL match scores based on real-time inputs. | `Streamlit` `XGBoost` |
-| **EPL Score Pred** | Predictive modeling for English Premier League football matches. | `Python` `ML` |
-| **Trader Sentiment** | Financial sentiment analysis for stock market trading signals. | `NLP` `Python` |
-
----
 
 <div align="center">
 
