@@ -55,7 +55,3 @@ I distinguish myself with a **"Math-First" philosophy**: I prioritize understand
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mavnish604/mavnish604/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
