@@ -45,9 +45,7 @@ I distinguish myself with a **"Math-First" philosophy**: I prioritize understand
 
 
 <div align="center">
-
-# 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-lake-two-38.vercel.app?user=mavnish604&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Contributions" />
 
 
 ### ✍️ Random Dev Quote
